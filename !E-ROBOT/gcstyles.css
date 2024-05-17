@@ -64,8 +64,6 @@ p {
         gap: 50px;
     }
     .card {
-        width: 80%;
-        max-width: 230px;
-        margin: 0 auto;
+        width: 50%;
     }
 }
